@@ -46,3 +46,51 @@ cd credit-card-fraud-detection
 
 # Install dependencies
 pip install -r requirements.txt
+
+
+## Usage
+
+- Open `Credit_Card_Fraud_Detection.ipynb` in Jupyter Notebook or Google Colab
+
+- Run all cells to:
+  1. Load and preprocess data
+  2. Train models (Isolation Forest, LOF, XGBoost)
+  3. Evaluate and visualize results
+
+- Optional: Run `app.py` for Streamlit dashboard (if deployed)
+
+---
+
+## Results
+
+| Model | Precision (Fraud) | Recall (Fraud) | F1-Score (Fraud) |
+|-------|-----------------|----------------|-----------------|
+| XGBoost | 0.87 | 0.85 | 0.86 |
+| Isolation Forest | 0.40 | 0.23 | 0.30 |
+| LOF (sample) | 0.001 | 1.0 | 0.003 |
+
+**Observation:** XGBoost outperforms unsupervised models for fraud detection.
+
+---
+
+## Visualizations
+
+- ROC Curve, Precision-Recall Curve
+- Confusion Matrices
+- Performance comparison bar plot
+
+---
+
+## Future Work
+
+- Deploy interactive dashboard for real-time predictions
+- Experiment with other supervised models (LightGBM, CatBoost)
+- Tune hyperparameters to improve recall on fraud class
+
+---
+
+## Author
+
+**Mukesh Sunku**  
+- GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)  
+- Email: `<your-email>`
