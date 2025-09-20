@@ -38,16 +38,6 @@ Python, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, Jupyter Noteb
 
 ---
 
-## Installation
-```bash
-# Clone repository
-git clone https://github.com/<your-username>/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
-
-# Install dependencies
-pip install -r requirements.txt
-
-
 ## Usage
 
 - Open `Credit_Card_Fraud_Detection.ipynb` in Jupyter Notebook or Google Colab
@@ -60,6 +50,18 @@ pip install -r requirements.txt
 - Optional: Run `app.py` for Streamlit dashboard (if deployed)
 
 ---
+
+## Installation
+```bash
+# Clone repository
+git clone https://github.com/<your-username>/credit-card-fraud-detection.git
+cd credit-card-fraud-detection
+
+# Install dependencies
+pip install -r requirements.txt
+
+---
+
 
 ## Results
 
@@ -92,5 +94,5 @@ pip install -r requirements.txt
 ## Author
 
 **Mukesh Sunku**  
-- GitHub: [https://github.com/<your-username>](https://github.com/<your-username>)  
-- Email: `<your-email>`
+- GitHub: [https://github.com/<mukeshsunku721>](https://github.com/<mukeshsunku721>)  
+- Email: `<mukeshrugs@gmail.com>`
