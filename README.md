@@ -52,7 +52,7 @@ Python, Pandas, NumPy, Scikit-Learn, XGBoost, Matplotlib, Seaborn, Jupyter Noteb
 ---
 
 ## Installation
-```bash
+
 # Clone repository
 git clone https://github.com/<your-username>/credit-card-fraud-detection.git
 cd credit-card-fraud-detection
