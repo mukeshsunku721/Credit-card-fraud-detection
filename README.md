@@ -60,7 +60,7 @@ cd credit-card-fraud-detection
 ```
 # Install dependencies
 pip install -r requirements.txt
-
+```
 ---
 
 
